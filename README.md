@@ -22,3 +22,6 @@ Code is somehow commented, but not refactored, so you will be able to see what i
 * Maybe some dificulity selection? 
 * And restart screen. 
 * Remove Windows headers, so it can be compiled on multiple platforms...
+
+# Screenshots - yeah!
+[![tetris.gif](https://i.postimg.cc/QMbvRbw2/tetris.gif)](https://postimg.cc/GB4MDkcK)
