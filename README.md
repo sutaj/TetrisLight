@@ -15,6 +15,6 @@ Arrow down, right, left and Space for rotation.
 Code is somehow commented, but not refactored, so you will be able to see what is what :P
 
 # To Do
-*Maybe some dificulity selection? 
-*And restart screen. 
-*Remove Windows headers, so it can be compiled on multiple platforms...
+* Maybe some dificulity selection? 
+* And restart screen. 
+* Remove Windows headers, so it can be compiled on multiple platforms...
