@@ -14,6 +14,10 @@ Arrow down, right, left and Space for rotation.
 
 Code is somehow commented, but not refactored, so you will be able to see what is what :P
 
+# System requirements
+* CPU
+* 1MB of RAM
+
 # To Do
 * Maybe some dificulity selection? 
 * And restart screen. 
