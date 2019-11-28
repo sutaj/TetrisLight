@@ -1,5 +1,5 @@
 # TetrisLight
-Small Tetris game in colnole window. 
+Small Tetris game in console window. 
 
 # WHY?!
 Just for fun...
